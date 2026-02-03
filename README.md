@@ -3,7 +3,7 @@
 We're pleased to work with clients on complex projects that require radical collaboration and innovative ideas. This repo is our attempt to collect overviews of these projects. 
 
 * [Client entries are in the wiki](https://github.com/weareopen/clients/wiki)
-* [See an example of our Pitch Deck]()
+* [See an example of our Pitch Deck](https://github.com/weareopen/clients/blob/main/assets/docs/Amnesty-presentation-pitchdeck.pdf)
 * [See our Communities Demo deck](https://github.com/weareopen/clients/blob/main/assets/docs/Communities%20Demo.pdf)
 
 Our projects tend to be somewhere in the intersections of Learning, Technology and Community:
